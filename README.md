@@ -10,8 +10,8 @@ Run the deploy script. Make sure you have docker installed and running.
 
 ### Heroku and Firebase
 ---
-The backend is available at `https://luizfvm-restful-api.herokuapp.com/swagger-ui.html`.
-The frontend at `https://lfvm-rest-client.firebaseapp.com/users`.
+* The backend is available at `https://luizfvm-restful-api.herokuapp.com/swagger-ui.html`.
+* The frontend at `https://lfvm-rest-client.firebaseapp.com/users`.
 
 ### Built With
 ---
