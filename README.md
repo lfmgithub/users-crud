@@ -6,7 +6,7 @@ This is a simple fullstack project which you can create, delete, update and retr
 
 ### Run locally
 ---
-Run the deploy script. Make sure you have docker installed and running.
+Make sure you have docker installed and running, then execute the deploy script. Backend Swagger should be accessible at http://localhost:8080/swagger-ui/ and Frontend at http://localhost:4200/.
 
 ### Built With
 ---
